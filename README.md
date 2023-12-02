@@ -21,7 +21,7 @@ This project implements a content-based recommender system for movies. It uses d
 ## Setup and Usage
 
 1. Ensure Python is installed along with Pandas, NLTK, and Scikit-learn.
-2. Download the datasets `tmdb_5000_movies.csv` and `tmdb_5000_credits.csv`.
+2. Download the datasets `tmdb_5000_movies.csv` and `tmdb_5000_credits.csv`. [Go to think link for dataset]()
 3. Run the Jupyter Notebook to process the data and train the model.
 4. Use the `recommend(movie)` function to get movie recommendations.
 
